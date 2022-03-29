@@ -2,6 +2,6 @@
     Simple Flask Apllication to demonstrate CICD deployment to Heroku
 
 ## Heroku Deployment
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site is deployed on [Heroku](https://flask-testing-62.herokuapp.com/).
 
 
