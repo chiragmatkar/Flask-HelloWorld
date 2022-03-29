@@ -2,4 +2,4 @@
     Simple Flask Apllication to demonstrate CICD deployment to Heroku
 
 ## Heroku Deployment
-    ![Heroku Deployment Link](https://flask-testing-62.herokuapp.com/)
+    ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
